@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Kakashi",
+      "image": "https://vignette.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest/scale-to-width-down/340?cb=20170628120149",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Naruto",
+      "image": "https://vignette.wikia.nocookie.net/naruto/images/0/09/Naruto_newshot.png/revision/latest/scale-to-width-down/340?cb=20170621101134",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Sauske",
+      "image": "https://vignette.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest/scale-to-width-down/340?cb=20170716092103",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Boruto",
+      "image": "https://vignette.wikia.nocookie.net/naruto/images/b/bd/Boruto_uzumaki.png/revision/latest/scale-to-width-down/340?cb=20150416123755",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Luffy",
+      "image": "https://vignette.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/340?cb=20190124235416",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Tanjiro",
+      "image": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/c/c7/Tanjiro_anime_design.png/revision/latest/smart/width/400/height/225?cb=20181128204204",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Goku",
+      "image": "https://vignette.wikia.nocookie.net/deathbattlefanon/images/2/20/C0A9B238-91F6-46AA-ABDC-3FC720228C25.png/revision/latest/scale-to-width-down/340?cb=20171104014554",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Meliodas",
+      "image": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/2/2e/Meliodas_Anime_Season_3_Design.png/revision/latest/scale-to-width-down/340?cb=20190809210953",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Kirito",
+      "image": "https://www.anime-planet.com/images/characters/kirito-30045.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Pikachu",
+      "image": "https://vignette.wikia.nocookie.net/school-daze/images/4/4c/Pikachu-PNG-HD.png/revision/latest?cb=20171110150156",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Charizard",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Mew-Two",
+      "image": "https://vignette.wikia.nocookie.net/omniversal-battlefield/images/d/d3/Mewtwo.png/revision/latest/scale-to-width-down/340?cb=20181219025349",
+      "count": 0
+    }
+  ]
