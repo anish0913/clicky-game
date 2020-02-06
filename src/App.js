@@ -4,8 +4,6 @@ import Wrapper from "./components/Wrapper";
 import Navbar from "./components/Navbar";
 import Banner from "./components/Banner";
 import cards from "./images.json";
-import "./App.css";
-
 
 //this.state.cards
 class App extends React.Component {
