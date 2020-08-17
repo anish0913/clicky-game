@@ -1,6 +1,6 @@
 # React Clicky Game
 
-This is react memomry game. Users must test their memory by clicking each image once but dont click the same image twice!
+This is react memory game. Users must test their memory by clicking each image once but dont click the same image twice!
 
 Local Setup
 
